@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\wenba\Documents\Spring 2022\Electronics of Music\Final Project\baby8_sequencer\baby8_sequencer.kicad_sch</source>
+    <date>4/6/2022 2:06:32 AM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>baby8_sequencer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74540965-158a-44d7-b350-1e08d4014ebf</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4912570-ce90-4db5-bce3-0a62e69b4bea</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82934eef-8647-4087-b194-8d55a0bb1f93</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75ad4701-ac5e-4177-bd3f-f5f4e31c098f</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45de76f0-7370-4c7b-ac72-63a9fae7348e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55f98caa-486c-4f4e-893a-4b3c93231c5d</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecd21ca3-26c7-413e-a910-3b3cbeef80d8</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdc921a6-bdd6-43f2-8655-6424c48c28db</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f63163c2-bdef-4fc2-b00f-e86cd7a5da45</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61005bbc-3238-4c90-8d75-1e384ed39ac8</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c84a15a6-8f3a-4461-8ea6-bb124ef0e502</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c803e46-8636-41c2-8c1d-3c6f34b7ccf7</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1df2ceea-9d0b-4ec4-b272-03819fa59906</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cbbbb6b-fb30-4738-9247-19de04639eb5</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2901bc4f-84d5-45fc-8322-6242d2813fc8</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab8f2fcc-5767-4a47-91af-0ebb6bb70bcd</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b44b03a-0a8b-4da5-94ea-122678e629e4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>GATE</value>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f79ffb43-bf2f-4f5d-b9d9-d0150d06f273</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>CV</value>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9de3783-22a4-4e74-b713-e0ac0b43b0de</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de58633a-fd11-4098-b7ee-fce01a9bd80f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f49edd9a-3854-4928-a5bf-e9d937e1def5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>042f7d33-ca03-4045-9969-fb57f8b9424f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8168a982-8528-4438-afda-d13ac9470606</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dae4dfc-a3c1-45e6-8ea5-dc3be8fcde88</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26d4bbb4-d083-43cd-8a96-d9c4c5a7a679</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>890ec1ac-3f45-44d8-855e-1d8371e93d55</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>858c1d95-9ad4-47df-b15f-4420752c9bc9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb08c821-17f3-4570-b188-6034e068d776</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1K</value>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38bdfc19-4209-41b4-81fd-1e0796c82583</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Reset</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3c6ff8f-2aab-40f4-95c5-55b9c1910747</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d88ff6b1-d431-4c22-9674-105bc675bd28</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e05d6677-15ea-4604-ab08-34d5be19f623</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cba9313-d14d-4744-9e84-63e8f452e391</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb04ca00-c71c-4a50-8921-499a83b946b8</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dba192ec-8792-4001-8138-ade0d2271a58</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db79cb47-0f4f-410c-ad9b-61239774c914</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e798df45-3f75-4c65-992c-e61ef7efbb98</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SPST</value>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20f0d4c3-4c86-4bd2-892d-c4b3915e6e87</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM555xN</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xN" description="Timer, 555 compatible, PDIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d7c674c-8f96-47f6-be97-8b79c3391938</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>4017</value>
+      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
+      <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>318b2578-c68e-4fe7-9a79-e852a7a6f6ac</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d7d2bd1-3cf4-4fa8-8072-72b4e98333dc</tstamps>
+    </comp>
+    <comp ref="VR2">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>749542b1-0aef-4980-bcac-fb7b53b633ad</tstamps>
+    </comp>
+    <comp ref="VR3">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6c124cd-4daf-4a4e-bd56-e7f54da2a7d0</tstamps>
+    </comp>
+    <comp ref="VR4">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23ae9d6d-f3e8-4b96-a3cf-97eeab907f3a</tstamps>
+    </comp>
+    <comp ref="VR5">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53c263b1-8c11-40e9-8a5a-fed1ee070682</tstamps>
+    </comp>
+    <comp ref="VR6">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fb3a132-b3e2-4974-9ad2-c3dea144068e</tstamps>
+    </comp>
+    <comp ref="VR7">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2cdd8ac-e6dd-4376-872f-e09e5a0bef4a</tstamps>
+    </comp>
+    <comp ref="VR8">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dad8c5ae-6fb5-43fb-ab60-7fbecb0bf18e</tstamps>
+    </comp>
+    <comp ref="VR9">
+      <value>470K</value>
+      <libsource lib="Device" part="R_Variable_US" description="Variable resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="baby8_sequencer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69d91e72-23e0-4774-a1f0-20bee8be0c28</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="4xxx" part="4017">
+      <description>Johnson Counter ( 10 outputs )</description>
+      <docs>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4017</field>
+        <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q5" type="output"/>
+        <pin num="2" name="Q1" type="output"/>
+        <pin num="3" name="Q0" type="output"/>
+        <pin num="4" name="Q2" type="output"/>
+        <pin num="5" name="Q6" type="output"/>
+        <pin num="6" name="Q7" type="output"/>
+        <pin num="7" name="Q3" type="output"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Q8" type="output"/>
+        <pin num="10" name="Q4" type="output"/>
+        <pin num="11" name="Q9" type="output"/>
+        <pin num="12" name="Cout" type="output"/>
+        <pin num="13" name="CKEN" type="input"/>
+        <pin num="14" name="CLK" type="input"/>
+        <pin num="15" name="Reset" type="input"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Variable_US">
+      <description>Variable resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Variable_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="LM555xN">
+      <description>Timer, 555 compatible, PDIP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm555.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM555xN</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="4xxx">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/4xxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Timer">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Timer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+9V">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="VR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="13" pinfunction="CKEN" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR3" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR4" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR5" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR6" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR7" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR8" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="VR9" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J1-PadT)">
+      <node ref="J1" pin="T" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="U2" pin="14" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(J2-PadT)">
+      <node ref="J2" pin="T" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="DIS" pintype="input"/>
+      <node ref="VR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Q0" pintype="output"/>
+      <node ref="VR2" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="Q1" pintype="output"/>
+      <node ref="VR3" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="Q2" pintype="output"/>
+      <node ref="VR4" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="Q3" pintype="output"/>
+      <node ref="VR5" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="Q4" pintype="output"/>
+      <node ref="VR6" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="Q5" pintype="output"/>
+      <node ref="VR7" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="Q6" pintype="output"/>
+      <node ref="VR8" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="Reset" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="Q7" pintype="output"/>
+      <node ref="VR9" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="40" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="Q8" pintype="output"/>
+    </net>
+    <net code="41" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="Q9" pintype="output"/>
+    </net>
+    <net code="42" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="Cout" pintype="output"/>
+    </net>
+  </nets>
+</export>
