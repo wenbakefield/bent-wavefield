@@ -21,11 +21,11 @@ The schematics for the circuits were designed in KiCAD. Download links for the p
 
 ### Baby8 Sequencer
 ![baby8](https://github.com/wenbakefield/bent-wavefield/assets/8831999/3599c672-7e88-426e-a219-2739e757d8e0)
-
+[Download KiCAD Project](https://github.com/wenbakefield/bent-wavefield/releases/download/v0.1.0/baby8_sequencer.zip)
 
 ### Atari Punk Console
 ![apc](https://github.com/wenbakefield/bent-wavefield/assets/8831999/2b6d7f18-8bea-4ef4-a20f-36c8b991be76)
-
+[Download KiCAD Project](https://github.com/wenbakefield/bent-wavefield/releases/download/v0.1.0/apc_synth.zip)
 
 ## Bill of Materials
 
